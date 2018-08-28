@@ -1,0 +1,1 @@
+CN=vpn-shoot CERT_TYPE=server go run main.go

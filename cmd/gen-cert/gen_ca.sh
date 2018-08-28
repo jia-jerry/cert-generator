@@ -1,0 +1,1 @@
+CN=VPN IS_CA=true go run main.go

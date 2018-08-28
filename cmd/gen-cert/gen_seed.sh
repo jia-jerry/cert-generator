@@ -1,0 +1,1 @@
+CN=vpn-seed CERT_TYPE=client go run main.go
